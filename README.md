@@ -1,4 +1,4 @@
-# Computer interaction system based on the detection of hands using cascading classifiers
+## Computer interaction system based on the detection of hands using cascading classifiers
 
 ## Abstract
 
