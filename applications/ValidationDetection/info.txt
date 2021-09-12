@@ -1,0 +1,4 @@
+For training it was used 
+baixadas de:
+- Hand Gestures Dataset - https://www.gti.ssr.upm.es/data/HandGesture_database SET 2. o set 1 foi usado no treinamento
+

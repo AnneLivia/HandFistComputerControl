@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1630515603 source:c:\users\annel\desktop\validationdetection\main.cpp
+	<iostream>
+	"opencv2/opencv.hpp"
+	<vector>
+	<cstdlib>
+

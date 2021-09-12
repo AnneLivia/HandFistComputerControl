@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1630344264 source:c:\users\annel\desktop\colorcomputercontrol\main.cpp
+	<iostream>
+	<opencv2/opencv.hpp>
+	<windows.h>
+
+1630422641 source:c:\users\annel\desktop\handcomputercontrol\main.cpp
+	<iostream>
+	<opencv2/opencv.hpp>
+	<windows.h>
+

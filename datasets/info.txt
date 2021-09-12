@@ -1,0 +1,18 @@
+Positive images - 2496 imagens
+
+baixadas de:
+
+- Hand Gesture Database (https://www.gti.ssr.upm.es/data/HandGesture_database)
+- Imagens pessoais
+- Internet
+- sample positive - https://github.com/Sandeep-Sthapit/HandGestureDetection/tree/master/positive%20sample%20images/fists
+- ASL Alphabet https://www.kaggle.com/grassknoted/asl-alphabet
+- Significant (ASL) Sign Language Alphabet Dataset https://www.kaggle.com/kuzivakwashe/significant-asl-sign-language-alphabet-dataset
+
+Negative images - 7994
+
+baixadas de:
+
+- Internet
+- aleatórias
+- Regiões faciais e do corpo obtidas pelo Real and fake face detection
