@@ -5,3 +5,9 @@
 	<vector>
 	<cstdlib>
 
+1630515603 source:c:\users\annel\downloads\programming\handcomputercontrol\applications\validationdetection\main.cpp
+	<iostream>
+	"opencv2/opencv.hpp"
+	<vector>
+	<cstdlib>
+
